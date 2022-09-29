@@ -23,18 +23,19 @@
 22. binary to decimal
 23. hollow square dollar pattern
 24. username validation
-25. factorialandnooffactor.py
-26. factorialsum.py
-27. firstnperfectandmfactor.py
-28. loavedbread.py
-29. matches.py
-30. mirror.py
-31. mthmaxandnthmin.py
-32. onlinecost.py
-33. pattern.py
-34. patternindecimal.py
-35. readnumberuntil.py
-36. readprogramuntil.py
-37. reversingnumber.py
-38. sumanddifference.py
-39. traingulararray.py
+25. factorialandnooffactor
+26. factorialsum
+27. firstnperfectandmfactor
+28. loavedbread
+29. matches
+30. mirror
+31. mthmaxandnthmin
+32. onlinecost
+33. pattern
+34. patternindecimal
+35. readnumberuntil
+36. readprogramuntil
+37. reversingnumber
+38. sumanddifference
+39. traingulararray
+40. skipping numbers
