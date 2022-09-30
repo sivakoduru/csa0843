@@ -39,3 +39,8 @@
 38. sumanddifference
 39. traingulararray
 40. skipping numbers
+41. wordsascendinganddescending
+42. stair user
+43. square and qube 
+44. squareandqube of decimal
+45. reverse
